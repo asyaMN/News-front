@@ -86,8 +86,7 @@ CREATE TABLE `user` (
 INSERT INTO `user` (`id`, `username`, `email`, `password`) VALUES
 (1, 'Asia', 'asia@gmail.com', '1234'),
 (2, 'Asia', 'asia@gmail.com', '1234'),
-(3, 'Asia', 'asia@gmail.com', '12345'),
-(4, 'ammarhardan', 'ammarhardan@gmail.com', '1234');
+(3, 'Asia', 'asia@gmail.com', '12345');
 
 --
 -- Indexes for dumped tables
